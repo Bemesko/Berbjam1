@@ -7,6 +7,15 @@
       "dependencies": {},
       "hash": "7effe97b92263789317936e97bb7b2dd71de4cea"
     },
+    "com.cyberbuggy.interactions": {
+      "version": "https://github.com/CyberBuggy/Interactions.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.unity.inputsystem": "1.3.0"
+      },
+      "hash": "de061413303c83f4e5eeef73ae36f456265b20ec"
+    },
     "com.unity.2d.animation": {
       "version": "7.0.4",
       "depth": 1,
